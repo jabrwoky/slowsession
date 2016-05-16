@@ -1,7 +1,5 @@
 package slowsession
 
-import grails.converters.JSON
-
 class TuneController {
 
     static defaultAction = "home"

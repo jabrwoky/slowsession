@@ -246,5 +246,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-io:9.2.15.v20160210" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.2.15.v20160210" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="groovy-1.8.6" level="application" />
+    <orderEntry type="library" name="groovy-1.8.6" level="application" />
   </component>
 </module>
